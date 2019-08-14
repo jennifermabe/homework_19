@@ -89,6 +89,10 @@ body {
     width: 100%;
     box-shadow: 2px 2px 5px rgba(0,0,0,.4);
 }
+.jen-carousel {
+    width: 100%;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.4);
+}
 .jen-work-btn {
     background-color: #F183B4!important;
     font-family: 'Roboto', sans-serif!important;
